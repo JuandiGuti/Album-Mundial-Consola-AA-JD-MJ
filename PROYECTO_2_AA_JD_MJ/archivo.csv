@@ -1,0 +1,17 @@
+categoria,codigo,numero_estampa,nombre_estampa
+museo,FWC,0,Panini
+museo,FWC,1,Balon
+museo,FWC,2,Copa Parte 1
+museo,FWC,3,Copa Parte 2
+museo,FWC,4,Argentina 1978
+museo,FWC,5,Brasil 1994
+pais,ARG,1,Escudo
+pais,ARG,2,Seleccion
+pais,ARG,3,Emiliano Martinez
+pais,ARG,4,Lionel Messi
+pais,ARG,5,Rodrigo De Paul
+pais,BRA,1,Escudo
+pais,BRA,2,Seleccion
+pais,BRA,3,Alisson Becker
+pais,BRA,4,Neymar Jr
+pais,BRA,5,Antony
